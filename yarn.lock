@@ -5781,9 +5781,9 @@ karma-es6-shim@^1.0.0:
     es5-shim "~4.5.8"
     es6-shim "~0.35.0"
 
-karma-jasmine@^1.1.0:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/karma-jasmine/-/karma-jasmine-1.1.2.tgz#394f2b25ffb4a644b9ada6f22d443e2fd08886c3"
+karma-jasmine@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/karma-jasmine/-/karma-jasmine-2.0.0.tgz#07f688a18c679a07983acd3a2e3973c51aa4e0c7"
 
 karma-phantomjs-launcher@^1.0.4:
   version "1.0.4"
