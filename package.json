@@ -25,7 +25,7 @@
     "deepmerge": "^2.0.0",
     "eventemitter3": "^3.1.0",
     "jquery": "1.*",
-    "material-components-web": "^0.36.1",
+    "material-components-web": "^0.37.0",
     "sass.js": "0.10.9",
     "title-case": "^2.1.1",
     "url-loader": "^1.0.1"
