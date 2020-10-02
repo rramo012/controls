@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@boldgrid/components": "^2.14.0",
-    "@material/switch": "^0.36.1",
+    "@material/switch": "^0.38.0",
     "Buttons": "https://github.com/alexwolfe/Buttons",
     "Iris": "git+https://github.com/Automattic/Iris.git#master",
     "animate.css": "^3.5.2",
