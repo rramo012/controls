@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@boldgrid/components": "^2.14.0",
-    "@material/switch": "^0.36.1",
+    "@material/switch": "^3.1.0",
     "Buttons": "https://github.com/alexwolfe/Buttons",
     "Iris": "git+https://github.com/Automattic/Iris.git#master",
     "animate.css": "^3.5.2",
@@ -26,7 +26,7 @@
     "eventemitter3": "^3.1.0",
 	"google-material-color-palette-json": "^2.0.1",
     "jquery": "1.*",
-    "material-components-web": "^0.36.1",
+    "material-components-web": "^3.1.0",
 	"select2": "^4.0.6-rc.1",
     "sass.js": "0.10.9",
     "title-case": "^2.1.1",
