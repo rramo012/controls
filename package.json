@@ -30,7 +30,7 @@
 	"select2": "^4.0.6-rc.1",
     "sass.js": "0.10.9",
     "title-case": "^2.1.1",
-    "url-loader": "^1.0.1"
+    "url-loader": "^2.0.0"
   },
   "deprecated": false,
   "description": "BoldGrid Controls",
