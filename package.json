@@ -80,7 +80,7 @@
     "rimraf": "^2.6.1",
     "sass-loader": "^7.0.0",
     "standard": "^11.0.0",
-    "style-loader": "^0.21.0",
+    "style-loader": "^0.22.0",
     "stylelint": "^9.1.2",
     "stylelint-config-standard": "^18.0.0",
     "stylelint-webpack-plugin": "^0.10.3",
