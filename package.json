@@ -29,7 +29,7 @@
     "material-components-web": "^0.36.1",
 	"select2": "^4.0.6-rc.1",
     "sass.js": "0.10.9",
-    "title-case": "^2.1.1",
+    "title-case": "^3.0.0",
     "url-loader": "^1.0.1"
   },
   "deprecated": false,
